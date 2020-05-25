@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-edison",
+  "version": "1.0.0",
+  "description": "Homebridge plugin to control the light bulbs of https://edison-led.co.jp",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "tuyapi": "^5.3.1"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inacho/homebridge-edison.git"
+  },
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=1.1.0"
+  },
+  "author": "nacho@inacho.es",
+  "license": "MIT"
+}
