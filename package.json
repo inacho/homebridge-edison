@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^3.2.0",
-    "tuyapi": "^5.3.1"
+    "tuyapi": "^7.5.2"
   },
   "keywords": [
     "homebridge-plugin"
